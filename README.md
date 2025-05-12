@@ -56,5 +56,5 @@ This case study represents my ability to combine technical rigor with business u
 ## 📫 Contact
 
 Want to collaborate, connect, or chat logistics, operations, or analytics?
-Reach me at bill@malleyanalytics.com or visit malleyanalytics.com .
+Reach me at bill@malleyanalytics.com or visit https://malleyanalytics.com/ .
 
